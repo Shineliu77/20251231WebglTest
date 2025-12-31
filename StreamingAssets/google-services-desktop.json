@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "556056819375",
+    "firebase_url": "https://electricdb-a7312-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "electricdb-a7312",
+    "storage_bucket": "electricdb-a7312.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556056819375:android:48dd45aae906dfad91c65a",
+        "android_client_info": {
+          "package_name": "com.UnityTechnologies.com.unity.template.urpblank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEAarCGP_hqBSURhZ0Md8_kul7PT5R49A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
